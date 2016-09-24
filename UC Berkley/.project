@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PacmanPython</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>layouts</name>
+			<value>file:/Users/shabbirhussain/Documents/Eclipse/workspace/NEU-CS5100-FAI/UC%20Berkley/search/layouts</value>
+		</variable>
+	</variableList>
+</projectDescription>
